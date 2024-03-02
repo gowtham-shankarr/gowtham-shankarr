@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [facilio technology solutions private limited](https://facilio.com/)
 
-- 🌱 I’m currently learning **TypeScript, Express, Node.js**
-
 - 👨‍💻 All of my projects are available at [gowthamshankar.dev](gowthamshankar.dev)
 
 - 📝 I regularly write articles on [gowthamshankar.dev/blog](gowthamshankar.dev/blog)
