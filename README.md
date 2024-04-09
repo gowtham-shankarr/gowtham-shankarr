@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gowtham</h1>
+<h1 align="center">Hi, I'm Gowtham 👋</h1>
 
 - 🔭 I’m currently working on [facilio technology solutions private limited](https://facilio.com/)
 
