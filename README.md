@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Gowtham 👋</h1>
 
-- 🔭 I’m currently working on [facilio technology solutions private limited](https://facilio.com/)
-
 - 👨‍💻 All of my projects are available at [gowthamshankar.dev](gowthamshankar.dev)
 
 - 📝 I regularly write articles on [gowthamshankar.dev/blog](gowthamshankar.dev/blog)
